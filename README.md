@@ -1,10 +1,17 @@
 # E-commerce-Purchases-Data-Analysis
 
-**Technologies Stack:** Python, Pandas
+**Overview**
 
-**Tools:** Jupyter Notebook
+Explore key insights from an e-commerce dataset using Python and Pandas. The analysis covers purchase patterns, language distribution, job titles, IP-address-to-email matching, credit card trends, and top email providers.
 
-**Role and Responsibilities:** Data Analyst
+**Key Findings**
 
-1. Conducted a comprehensive analysis of an e-commerce dataset to extract valuable insights and enhance decision-making processes.
-2. Utilized Pandas for data cleaning, transformation, and exploratory analysis.
+1. Purchase Patterns: Highest, lowest, and average purchase amounts.
+
+2. Demographics: Language diversity and prevalence of 'engineer' in job titles.
+
+3. Customer Profiling: Matching IP addresses to emails for tracking.
+
+4. Credit Card Trends: Usage patterns, especially with Mastercard, and upcoming expirations.
+
+5. Email Providers: Identification of top email platforms used by customers.
